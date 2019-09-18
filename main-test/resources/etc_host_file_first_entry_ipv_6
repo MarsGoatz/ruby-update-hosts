@@ -1,0 +1,8 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+d17e:c86f:d930:6ccb:5f:77dd:f544:1936       random1pv6
+255.255.255.255 broadcasthost

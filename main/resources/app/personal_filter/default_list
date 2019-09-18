@@ -1,0 +1,15 @@
+#Reddit Rpan
+127.0.0.1 https://www.reddit.com/rpan
+127.0.0.1 https://reddit.com/rpan
+127.0.0.1 reddit.com/rpan/*
+127.0,0.1 *reddit.com/rpan*
+
+#espn
+127.0.0.1 www.espncricinfo.com
+127.0.0.1 https://espncricinfo.com
+127.0.0.1 espncricinfo.com
+127.0.0.1 cricinfo.com
+127.0.0.1 https://www.msn.com/en-ca/entertainment/*
+127.0.0.1 msn.com
+127.0.0.1 wwww.msn.com
+127.0.0.1 https://wwww.msn.com
