@@ -3,7 +3,7 @@ There are better scripts to update hosts file and I would strongly recommend to 
 - [Steven Black Python Hosts Scripts](https://github.com/StevenBlack/hosts)
 - [Mitchell Krogza Ultiamte Hosts Scripts](https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist)
 
-In favor of the above two amazing scripts, I development of this repo will be slow and not that active.
+In favor of the above two amazing scripts, the development of this repo will be slow and not that active.
 
 To run the script
 - Go to main folder
