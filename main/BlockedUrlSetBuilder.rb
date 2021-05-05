@@ -112,20 +112,3 @@ class BlockedUrlSetBuilder
     line
   end
 end
-
-# resource_manager = ResourceManager.new('macosx', 'random')
-#
-# path_array = %w(resources/app/adult_content_filter/)
-# blocked_set = BlockedUrlSetBuilder.new('whitelisted_entries', resource_manager)
-# set = blocked_set.build_blocked_url_set(path_array)
-# line = 1
-# set.each do |entry|
-#   puts " #{line} with entry #{entry}"
-#   line += 1
-# end
-# duplicate_set = blocked_set.duplicate_set
-# line = 0
-# duplicate_set.each do |entry|
-#   puts " #{line } with duplicate entry #{entry}"
-#   line += 1
-# end
