@@ -1,10 +1,9 @@
-There are better scripts to update hosts file and I would strongly recommend to use them instead of this but if you really want to use ruby to update hosts file, feel free to use this repo.
+The source for the lists can be found here:
 
 - [Steven Black Python Hosts Scripts](https://github.com/StevenBlack/hosts)
-- [Mitchell Krogza Ultimate Hosts Scripts](https://github.com/mitchellkrogza/Ultimate.Hosts.Blacklist)
-
-In favor of the above two amazing scripts, the development of this repo will be slow and not that active.
 
 To run the script
 - Go to main folder
 - run ```ruby MainRunner.rb```
+
+The development of this repo is no longer active.
