@@ -11,7 +11,7 @@ ARGV.each do|a|
   end
 end
 
-log = Logger.new('../build/log.txt')
+log = Logger.new(STDOUT)
 log.level = Logger::DEBUG if @debug_flag
 log.level = Logger::WARN unless @debug_flag
 log.debug "This will be ignored"
